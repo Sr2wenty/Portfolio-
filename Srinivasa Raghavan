@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Srinivasa Raghavan EP | Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; color: #333; }
+    header, footer { background: #004aad; color: white; text-align: center; padding: 20px; }
+    .container { max-width: 960px; background: white; margin: 40px auto; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #004aad; }
+    h2 { border-bottom: 2px solid #004aad; padding-bottom: 6px; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Srinivasa Raghavan EP</h1>
+    <p>Virtual Assistant | Deal Closer | Entrepreneur</p>
+    <p>Coimbatore, Tamil Nadu | +91-95979-51716 | raghavansr20@gmail.com</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>About Me</h2>
+      <p>I'm a versatile professional with experience in customer support, virtual assistance, deal closing, and video moderation. I thrive in remote environments, delivering administrative excellence and strong client relations. I’m also the founder of STEAMEE Car Wash & Pets Boarding, blending my love for animals and entrepreneurship.</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Languages Known: English, Tamil</li>
+        <li>Virtual Assistance & Administrative Support</li>
+        <li>AI Tools for Automation & Content Creation</li>
+        <li>Team Coordination (Slack, Teams, Zoom)</li>
+        <li>Excel (pivot tables, VLOOKUP, automation)</li>
+        <li>MS Office, Email Management, Troubleshooting</li>
+        <li>Effective Communication</li>
+        <li>Multitasking & Time Management</li>
+        <li>Data Entry & Record Keeping</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <ul>
+        <li><strong>Infognana Solutions Pvt Ltd</strong> — Virtual Assistant (May 2024 – Present)</li>
+        <li><strong>Befoodie Pvt Ltd</strong> — Deal Closer (May 2024 – Present)</li>
+        <li><strong>Technosoft Global Services Pvt Ltd</strong> — Executive Customer Support (Jun 2023 – Apr 2024)</li>
+        <li><strong>Wipro Limited</strong> — Associate (Jul 2022 – Sep 2022)</li>
+        <li><strong>Startek Pvt Ltd</strong> — Associate (Jun 2019 – Aug 2019)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Entrepreneurship</h2>
+      <p><strong>STEAMEE Car Wash & Pets Boarding</strong> — Erode, Tamil Nadu (Aug 2021 – Jun 2022)</p>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>B.Com — Dr. GRD College of Arts and Science, 2019</li>
+        <li>12th — Bharathi Vidya Bhavan, 2016</li>
+        <li>10th — Bharathi Vidya Bhavan, 2014</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Hobbies & Interests</h2>
+      <ul>
+        <li>Cambridge University certified</li>
+        <li>Photography, Swimming</li>
+        <li>Collecting coins & Hot Wheels</li>
+        <li>Travel</li>
+      </ul>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Srinivasa Raghavan EP | Portfolio</p>
+  </footer>
+</body>
+</html>
